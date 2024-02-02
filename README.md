@@ -24,4 +24,4 @@ This is a simple Rock, Paper, Scissors game implemented using HTML, CSS, and Jav
 - `script.js`: The JavaScript file containing the game logic.
 
 ## Link 
-https://visionary-souffle-a9a674.netlify.app
+rock-paper-scissors-game-simple.netlify.app
